@@ -1,8 +1,10 @@
-## Homework
+# Activities , Lifecycle & State
 
-***Homework of Activity Lifecycle and state Lab exercise***
-<br>
-***This app contains counter and editText which will not loose its state when phone is rotated.***
-<br>
-<br>
-![lifecycleHomewokrk](https://user-images.githubusercontent.com/47735236/111495749-c87dc900-8767-11eb-9c20-7826ba969073.gif)
+<H1>Task-1</H1>
+<a href="https://imgur.com/qJAF7IK"><img src="https://i.imgur.com/qJAF7IK.gif" title="source: imgur.com" width=200/></a>
+<H1>Task-2</H1>
+<a href="https://imgur.com/I7QGuUG"><img src="https://i.imgur.com/I7QGuUG.gif" title="source: imgur.com" width=200/></a>
+<H1>Homework</H1>
+<a href="https://imgur.com/hTH9rxB"><img src="https://i.imgur.com/hTH9rxB.gif" title="source: imgur.com" width=200/></a>
+<H1>Coding Challenge</H1>
+<a href="https://imgur.com/ktNO88O"><img src="https://i.imgur.com/ktNO88O.gif" title="source: imgur.com" width=200/></a>
